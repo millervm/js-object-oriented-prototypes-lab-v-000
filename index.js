@@ -35,7 +35,7 @@ BoardMember.prototype.doCharity = function() {
   return "I like to help people.";
 };
 
-BoardMember.prototye.releasePressStatement = function() {
+BoardMember.prototype.releasePressStatement = function() {
   return "You will see great things from Scuber.";
 };
 
